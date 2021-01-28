@@ -4,3 +4,5 @@ y = 2
 z = x + y
 r = z^2
 b = z + r
+
+#  gia na doume
